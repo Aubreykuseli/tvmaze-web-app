@@ -19,18 +19,23 @@ A simple PHP-based web application that allows users to search for TV shows and 
 
 ## 📁 Project Structure
 
-/tvmaze-web-app/ ├── show.php # Displays search form, show details, and popular shows ├── index.php # Redirects or loads default view (optional) ├── includes/ │ └── api.php # Handles all TVMaze API interactions ├── assets/ │ ├── css/ │ │ └── style.css # Custom styles │ └── js/ │ └── main.js # (Optional) JS functionality
-
-bash
-Copy
-Edit
+/tvmaze-web-app/ 
+├── show.php # Displays search form, show details, and popular shows 
+├── index.php # Redirects or loads default view (optional) 
+├── includes/ 
+│ └── api.php # Handles all TVMaze API interactions 
+├── assets/ 
+│ ├── css/ │ 
+│ └── style.css # Custom styles │ └── js/ │ 
+└── main.js # (Optional) JS functionality
 
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/Aubreykuseli/tvmaze-web-app.git
    cd tvmaze-web-app
+   
 Run it on a local server (e.g., XAMPP, MAMP, etc.) since it’s PHP-based.
 
 Make sure to configure your API interaction file (includes/api.php) with proper methods for:
@@ -60,12 +65,10 @@ Favorite shows
 
 User accounts
 
-vbnet
-Copy
-Edit
 
-Let me know if you'd like to include installation screenshots or a live demo link!
+Live demo link 
 
+https://projects265.infy.uk/
 
 
 
