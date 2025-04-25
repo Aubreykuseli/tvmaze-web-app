@@ -29,7 +29,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tvmaze-web-app.git
+   git clone https://github.com/Aubreykuseli/tvmaze-web-app.git
    cd tvmaze-web-app
 Run it on a local server (e.g., XAMPP, MAMP, etc.) since it’s PHP-based.
 
