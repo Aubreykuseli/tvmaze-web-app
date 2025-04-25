@@ -68,7 +68,7 @@ User accounts
 
 Live demo link 
 
-https://projects265.infy.uk/
+www.projects265.infy.uk
 
 
 
